@@ -108,4 +108,10 @@ ecommerce-egitim-projesi/
 
 **Bonus:** localStorage ile veri saklama, temel DOM manipülasyonu.
 
+
+🔗 **Live Demo**
+https://goknurgurz.github.io/ecommerce-egitim-projesi/
+
+📚 Eğitim amaçlı hazırlanmış çok sayfalı e-ticaret sitesi.
+
 İyi çalışmalar! 🎨🛠️
