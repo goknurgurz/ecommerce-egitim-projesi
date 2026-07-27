@@ -1,7 +1,7 @@
 # 🪵 ATÖLYE — HTML / CSS / Bootstrap E-Ticaret Eğitim Projesi
 
-Bu proje, **HTML, CSS ve Bootstrap** öğrenen bir öğrenci için adım adım
-hazırlanmış, gerçekçi ve kapsamlı bir e-ticaret sitesi örneğidir.
+Bu proje, **HTML, CSS ve Bootstrap** öğrenen öğrenciler için adım adım
+hazırlanmış,hataların da olduğu gerçekçi ve kapsamlı bir e-ticaret sitesi örneğidir.
 Site, el yapımı ürünler satan hayali bir marka olan **ATÖLYE** temasıyla
 kurgulanmıştır.
 
